@@ -3,3 +3,9 @@ vendor/
 
 # ignoruj lokální neon nastavení
 app/config/config.local.neon
+
+# ignoruj logy
+log/
+
+# ignoruj readme.txt
+readme.txt
