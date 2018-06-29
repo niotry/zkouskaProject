@@ -1,0 +1,5 @@
+# ignoruj lokální vendor
+vendor/
+
+# ignoruj lokální neon nastavení
+app/config/config.local.neon
